@@ -12,3 +12,6 @@
 <img src="activite6/img_4.png">
 <img src="activite6/img_5.png">
 <img src="activite6/img_6.png">
+<img src="activite6/img_8.png">
+<img src="activite6/img_7.png">
+<img src="activite6/img_9.png">
